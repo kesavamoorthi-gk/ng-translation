@@ -1,0 +1,17 @@
+{
+  "name": "sparkout-ng-translation",
+  "version": "1.0.0",
+  "description": "This package will help you to translate the page content ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ngx-translate/core": "^14.0.0",
+    "@ngx-translate/http-loader": "^7.0.0",
+    "typescript": "^4.9.5"
+  }
+}
